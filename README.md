@@ -1,3 +1,6 @@
-OpenClash 完美配置
-请参看油管视频配置，本项目为配置文件。
-https://www.youtube.com/watch?v=S2l_0g4EOHk&t=2s
+OpenClash 配置
+
+主规则文件 Clash-YY.ini
+增加独立网站规则
+樱花动漫
+漫画柜等漫画源相关网站
